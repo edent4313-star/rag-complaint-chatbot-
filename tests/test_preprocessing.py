@@ -1,3 +1,5 @@
+
+import src
 from src.preprocessing import clean_text
 
 def test_clean_text():
